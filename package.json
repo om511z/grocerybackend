@@ -1,10 +1,11 @@
 {
   "name": "Grocery",
   "version": "1.0.0",
+ 
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "15.7.0",
+    "node": "18.x",
     "npm": "7.4.3"
   },
   "scripts": {
